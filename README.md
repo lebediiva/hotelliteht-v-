@@ -1,0 +1,2 @@
+# hotelliteht-v-
+c++ hotelliharjoitustyö
